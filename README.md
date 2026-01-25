@@ -12,7 +12,7 @@
   <br/>
 
   <a href="#">
-    <img src="https://img.shields.io/badge/🚀_Current_Project-Building_a_SaaS-7000ff?style=for-the-badge&logo=rocket" alt="SaaS Project" />
+    <img src="https://img.shields.io/badge/🚀_Current_Project-Building_a_SaaS-7000ff?style=for-the-badge&logo=rocket&logoColor=white" alt="SaaS Project" />
   </a>
 
   <h3>
@@ -45,10 +45,10 @@
   </p>
 
   <br/>
-<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=denaalharbi&theme=dark&hide_border=true&background=00000000&ring=7000ff&fire=7000ff&currStreakNum=ffffff&currStreakLabel=7000ff" alt="Dena's Activity" />
+
   <br/>
-  <img src="https://github-readme-isometric-graphs.vercel.app/graph?username=denaalharbi&theme=dracula&hide_background=true" alt="Dena's 3D Contribs" />
-</div>
   <br/>
 
   <h3>Connect with me</h3>
