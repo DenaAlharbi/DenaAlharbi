@@ -15,7 +15,7 @@
   </a>
 
   <h3>
-    I am currently building <b>Portfio</b> 🏗️
+    I am currently building  🏗️
   </h3>
   <p>
     A high-end SaaS platform designed to help architects and designers build professional digital portfolios in minutes.<br/>
