@@ -45,11 +45,10 @@
   </p>
 
   <br/>
-
 <div align="center">
   <br/>
   <a href="https://github.com/Platane/snk">
-    <img src="https://github.com/denaalharbi/denaalharbi/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+    <img src="https://raw.githubusercontent.com/DenaAlharbi/DenaAlharbi/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
   </a>
 </div>
   <br/>
