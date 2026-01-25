@@ -46,8 +46,12 @@
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=denaalharbi&theme=dark&hide_border=true&background=00000000&ring=7000ff&fire=7000ff&currStreakNum=ffffff&currStreakLabel=7000ff" alt="Dena's Activity" />
-
+<div align="center">
+  <br/>
+  <a href="https://github.com/Platane/snk">
+    <img src="https://github.com/denaalharbi/denaalharbi/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  </a>
+</div>
   <br/>
   <br/>
 
