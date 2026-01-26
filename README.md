@@ -2,7 +2,7 @@
 
   <h1>Hi there, I'm Dena Alharbi</h1>
   
-  <h3>Software Engineering Student at KFUPM 🎓</h3>
+  <h3>Software Engineering Student at KFUPM </h3>
   
   <p>
     Junior Software Engineer with a passion for <b>Web Development</b>, <b>App Development</b>, and <b>Data Science</b>.
