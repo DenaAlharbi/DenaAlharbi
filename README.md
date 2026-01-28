@@ -18,7 +18,7 @@
     I am currently building  🏗️
   </h3>
   <p>
-    A high-end SaaS platform designed to help architects and designers build professional digital portfolios in minutes.<br/>
+    A high-end SaaS platform designed to help students and professionals build professional digital portfolios in minutes.<br/>
     <i>Featuring dynamic templates, custom domains, and secure payments.</i>
   </p>
   <p>
